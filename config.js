@@ -74,7 +74,7 @@ SHOW_STEAM_CONNECT = true;
 // Show the direct connect help? (IP:PORT)
 SHOW_DIRECT_CONNECT = true;
 // Show the Counter-Strike: Source content help?
-SHOW_CSS_CONTENT = true;
+SHOW_CSS_CONTENT = false;
 
 // Show Credits?
 SHOW_CREDITS = true;
