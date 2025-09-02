@@ -77,6 +77,6 @@ SHOW_DIRECT_CONNECT = true;
 SHOW_CSS_CONTENT = false;
 
 // Show Credits?
-SHOW_CREDITS = true;
+SHOW_CREDITS = false;
 // Custom credits text
 CREDITS_TEXT = "";
