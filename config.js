@@ -15,11 +15,11 @@
 
 // The IP address of your GMod server
 // Leave empty if you want to force entering the IP address as query parameter
-GMSERVER_IP = "";
+GMSERVER_IP = "45.45.237.158";
 
 // The port of your GMod server
 // Defaults to 27015 if left empty and no query parameter is provided
-GMSERVER_PORT = "";
+GMSERVER_PORT = "27015";
 
 // By default I am forcing you to enter the password as a query parameter because security
 // If you really want to use a default password you'll have to change the code in js/main.js
@@ -42,7 +42,7 @@ LIGHT_MODE = false;
 // Whether or not the title should be shown in the middle of the page
 SHOW_TITLE = true;
 // Sets the title of the page
-PAGE_TITLE = "CSJoiner";
+PAGE_TITLE = "SimplyHVH";
 
 // Whether or not the image should be shown in the middle of the page
 SHOW_MIDDLE_IMAGE = true;
