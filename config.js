@@ -65,7 +65,7 @@ ANIMATED_TITLE = true;
 // Whether or not the footer should be shown at all
 SHOW_FOOTER = true;
 // Whether or not the footer should be open by default
-FOOTER_OPEN = false;
+FOOTER_OPEN = true;
 
 // Show the GMod Command Help? (connect command)
 SHOW_GMOD_COMMAND = true;
