@@ -42,14 +42,14 @@ LIGHT_MODE = false;
 // Whether or not the title should be shown in the middle of the page
 SHOW_TITLE = true;
 // Sets the title of the page
-PAGE_TITLE = "GModJoiner";
+PAGE_TITLE = "CSJoiner";
 
 // Whether or not the image should be shown in the middle of the page
 SHOW_MIDDLE_IMAGE = true;
 // Sets the image in the middle of the page
 // You can use a local image or a URL. If you want to use a local image, put it in the misc folder.
 // Example: "misc/your-image.jpg"
-MIDDLE_IMAGE = "misc/gmod_joiner.png";
+MIDDLE_IMAGE = "misc/cs_joiner.png";
 
 // Sets whether or not the background should be animated
 ANIMATED_BACKGROUND = true;
