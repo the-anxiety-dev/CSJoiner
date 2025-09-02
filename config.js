@@ -19,7 +19,7 @@ GMSERVER_IP = "45.45.237.158";
 
 // The port of your GMod server
 // Defaults to 27015 if left empty and no query parameter is provided
-GMSERVER_PORT = "27015";
+GMSERVER_PORT = "";
 
 // By default I am forcing you to enter the password as a query parameter because security
 // If you really want to use a default password you'll have to change the code in js/main.js
